@@ -1,3 +1,31 @@
+# Project Management Dashboard
+
+This is a project management dashboard built with Next.js, Ant Design, Zustand, and React Query. It allows users to manage projects and tasks, with features like authentication, project details, task management, and interactive components.
+
+## Features
+
+- Authentication Page with validation
+- Projects Overview Page with a list of projects
+- Project Details Page with tasks, team members, and recent activities
+- Task Management with drag-and-drop functionality
+- Task Filters and Search Functionality
+- Interactive Dashboard with modals, dropdowns, and tooltips
+
+## Setup Instructions
+
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Run the development server: `npm run dev`.
+4. Access the application in your browser at `http://localhost:3000`.
+
+## Technical Requirements
+
+- Framework: Next.js
+- State Management: Zustand
+- Data Fetching: React Query
+- UI Components: Ant Design
+- Styling: Tailwind CSS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
